@@ -1,0 +1,40 @@
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  597     0A:07:4A:0B:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  598     0A:07:4A:0C:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  595     0A:07:4A:0D:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  621     0A:07:4A:0E:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  596     0A:07:4A:0F:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  507     0A:07:4A:10:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  579     0A:07:4A:13:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
+;Device   MAC (hex)            SNET  SADR (hex)           APDU
+;-------- -------------------- ----- -------------------- ----
+  591     0A:07:4A:14:BA:C0    0     00                   1024 
+;
+; Total Devices: 1
